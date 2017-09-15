@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns", "DesignPatterns\DesignPatterns.csproj", "{ED1C33D5-7087-4A9C-96C3-06B3A01E91E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PatternAdapter", "PatternAdapter\PatternAdapter.csproj", "{00C32F53-CE56-4532-AC08-99EE55B32CF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uow-Repository", "Uow-Repository\Uow-Repository.csproj", "{D1A38A5A-B667-410E-9BB6-E49B2C86F85C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED1C33D5-7087-4A9C-96C3-06B3A01E91E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED1C33D5-7087-4A9C-96C3-06B3A01E91E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED1C33D5-7087-4A9C-96C3-06B3A01E91E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED1C33D5-7087-4A9C-96C3-06B3A01E91E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00C32F53-CE56-4532-AC08-99EE55B32CF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00C32F53-CE56-4532-AC08-99EE55B32CF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00C32F53-CE56-4532-AC08-99EE55B32CF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00C32F53-CE56-4532-AC08-99EE55B32CF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1A38A5A-B667-410E-9BB6-E49B2C86F85C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1A38A5A-B667-410E-9BB6-E49B2C86F85C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1A38A5A-B667-410E-9BB6-E49B2C86F85C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1A38A5A-B667-410E-9BB6-E49B2C86F85C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
